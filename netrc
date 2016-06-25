@@ -1,0 +1,6 @@
+machine api.heroku.com
+  login murimiclerk@gmail.com
+  password 494dc644-f334-43ae-ad1b-3c65e34fb5bc
+machine git.heroku.com
+  login murimiclerk@gmail.com
+  password 494dc644-f334-43ae-ad1b-3c65e34fb5bc
