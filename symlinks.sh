@@ -30,6 +30,22 @@ for file in $files; do
     ln -s $dir/$file ~/.$file
 done
 
+echo "Would you like to install bash or zsh?"
+read -p  "1. bash  2. zsh  3. I'm good" shell
+
+
+
+
+case $shell in 
+1)
+
+install_bash (){
+
+}
+;;
+
+2)
+
 install_zsh () {
 # Test to see if zshell is installed.  If it is:
 if [ -f /bin/zsh -o -f /usr/bin/zsh ]; then
@@ -61,5 +77,14 @@ else
     fi
 fi
 }
+;;
 
-install_zsh
+3)
+
+exit ;;
+
+* ) 
+echo "Enter either 1,2 or 3"
+exit
+
+esac
