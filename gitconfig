@@ -1,1 +1,36 @@
-/root/dotfiles/gitconfig
+[user]
+	name= kevthanewversi
+	email= murimiclerk@gmail.com
+
+[alias]
+  co= checkout
+  ci= commit
+  pu= push origin master
+  pf= push --force origin master
+  ada= add -A
+  ad= add .
+  st= status
+  br= branch
+  
+  hist= log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  type= cat-file -t
+  dump= cat-file -p
+
+[color]
+    ui= true
+
+[color "branch"]
+    current= yellow reverse
+    local= yello
+    remote= green
+
+[color "diff"]
+    meta= yellow bold
+    frag= magenta bold
+    old= red bold
+    new= green bold
+
+[color "status"]
+    added= yellow
+    changed= green
+    untracked= red
