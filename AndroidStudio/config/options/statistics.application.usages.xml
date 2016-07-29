@@ -1,0 +1,31 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="MU_Graduation" values="AndroidRunConfigurationType" collectionTime="1469743841050" />
+    </group>
+    <group name="module type">
+      <project id="MU_Graduation" values="JAVA_MODULE" collectionTime="1469743841049" />
+    </group>
+    <group name="vcs">
+      <project id="MU_Graduation" values="Git" collectionTime="1469743841048" />
+    </group>
+    <group name="file-type">
+      <project id="MU_Graduation" values="JAVA,XML,UNKNOWN,ARCHIVE,Groovy,AIDL,ProGuard File,IDEA_MODULE,Properties,Images,PLAIN_TEXT" collectionTime="1469743841123" />
+    </group>
+    <group name="Git">
+      <project id="MU_Graduation" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.1,config.ssh.enabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1" collectionTime="1469743841175" />
+    </group>
+    <group name="frameworks">
+      <project id="MU_Graduation" values="android-gradle,android,java-gradle" collectionTime="1469743841049" />
+    </group>
+    <group name="language-level">
+      <project id="MU_Graduation" values="JDK_1_7" collectionTime="1469743841153" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ideaapp.started" count="7" />
+    </counts>
+  </component>
+</application>
