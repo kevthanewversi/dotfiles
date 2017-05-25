@@ -1,7 +1,3 @@
-syntax enable
-colorscheme monokai
-set number
-
 " Specify a directory for plugins (for Neovim: ~/.local/share/nvim/plugged)
 call plug#begin('~/.vim/plugged')
 
@@ -18,3 +14,9 @@ Plug 'crusoexia/vim-monokai'
 
 " Initialize plugin system
 call plug#end()
+
+syntax enable
+colorscheme monokai
+set number
+
+
