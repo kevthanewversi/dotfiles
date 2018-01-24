@@ -15,6 +15,9 @@ Plug 'crusoexia/vim-monokai'
 "Syntax checker"
 Plug 'vim-syntastic/syntastic'
 
+"Chiel92 autoformat plugin"
+Plug 'Chiel92/vim-autoformat'
+
 " Initialize plugin system
 call plug#end()
 
