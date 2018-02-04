@@ -94,6 +94,7 @@ chatnets = {
 channels = (
   { name = "#irssi"; chatnet = "ircnet"; autojoin = "No"; },
   { name = "#nairobilug"; chatnet = "ircnet"; autojoin = "Yes"; },
+  { name = "#bitcoin"; chatnet = "ircnet"; autojoin = "Yes"; },
   { name = "silc"; chatnet = "silc"; autojoin = "No"; }
 );
 
