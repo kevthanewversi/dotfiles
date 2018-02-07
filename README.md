@@ -13,8 +13,7 @@ Using Vim Plug. Couple of plug-ins installed
 >Chiel92/vim-autoformat - :AutoFormat in vim  </br>
 
 Screenshot of my vim </br>
-![alt tag](https://pasteboard.co/H6wgvDn.png)
-
+![screen shot 2018-02-07 at 13 01 56](https://user-images.githubusercontent.com/5795556/35913993-b8480646-0c12-11e8-98e0-5d3908a9f582.png)
 
 ## bash_aliases
 Contains a couple of git aliases I found useful
