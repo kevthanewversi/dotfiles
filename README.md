@@ -12,6 +12,10 @@ Using Vim Plug. Couple of plug-ins installed
 >syntastic/syntastic - syntax checker - utilises system syntax checkers within vim  </br>
 >Chiel92/vim-autoformat - :AutoFormat in vim  </br>
 
+Screenshot of my vim </br>
+![alt tag](https://drive.google.com/open?id=1_RVJYiA1zXUtssAX_vJv_K9okVOPApDJ "VIM Screenshot")
+
+
 ## bash_aliases
 Contains a couple of git aliases I found useful
 Remember to run source ~/.bash_aliases to load them
