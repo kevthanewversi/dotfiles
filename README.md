@@ -13,7 +13,7 @@ Using Vim Plug. Couple of plug-ins installed
 >Chiel92/vim-autoformat - :AutoFormat in vim  </br>
 
 Screenshot of my vim </br>
-![alt tag](https://drive.google.com/open?id=1_RVJYiA1zXUtssAX_vJv_K9okVOPApDJ "VIM Screenshot")
+![alt tag](https://pasteboard.co/H6wgvDn.png "VIM Screenshot")
 
 
 ## bash_aliases
