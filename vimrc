@@ -18,6 +18,12 @@ Plug 'vim-syntastic/syntastic'
 "Chiel92 autoformat plugin"
 Plug 'Chiel92/vim-autoformat'
 
+"Auto-complete plugin"
+Plug 'Valloric/YouCompleteMe'
+
+"Status line plugin"
+Plug 'Lokaltog/vim-powerline'
+
 " Initialize plugin system
 call plug#end()
 
@@ -27,9 +33,12 @@ set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
 
 let g:syntastic_always_populate_loc_list = 1
-let g:syntastic_auto_loc_list = 0
+let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
+
+"NerdTree settings"
+"autocmd vimenter * NERDTree"
 
 syntax enable
 colorscheme monokai
