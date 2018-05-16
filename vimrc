@@ -24,6 +24,21 @@ Plug 'Valloric/YouCompleteMe'
 "Status line plugin"
 Plug 'Lokaltog/vim-powerline'
 
+"NERD TREE"
+Plug 'scrooloose/nerdtree'
+
+"sorround plug for HTML"
+Plug 'tpope/vim-surround'
+
+"git diff on gutter plugin"
+Plug 'airblade/vim-gitgutter'
+
+"git wrapper"
+Plug 'tpope/vim-fugitive'
+
+"comment out code plugin'
+Plug 'tpope/vim-commentary'
+
 " Initialize plugin system
 call plug#end()
 
@@ -38,7 +53,14 @@ let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
 "NerdTree settings"
-"autocmd vimenter * NERDTree"
+autocmd vimenter * NERDTree
+autocmd StdinReadPre * let s:std_in=1
+autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
+map <C-n> :NERDTreeToggle<CR>
+let NERDTreeShowHidden=1
+
+"vim-powerline status"
+let g:Powerline_symbols = 'fancy'
 
 syntax enable
 colorscheme monokai
