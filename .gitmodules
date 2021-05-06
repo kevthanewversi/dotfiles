@@ -1,0 +1,4 @@
+[submodule "vim/bundle/nerdtree"]
+	path = vim/bundle/nerdtree
+	url = git@github.com:preservim/nerdtree.git
+	branch = master
