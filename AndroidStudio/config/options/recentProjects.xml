@@ -1,0 +1,30 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="/home/android_dev/MU_Graduation" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="/home/android_dev/MU_Graduation" />
+      </list>
+    </option>
+    <option name="lastPath" value="/home/android_dev/MU_Graduation" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="/home/android_dev/MU_Graduation">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2915827" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1469741513608" />
+              <option name="buildTimestamp" value="1464210000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

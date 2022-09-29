@@ -1,0 +1,24 @@
+<application>
+  <component name="DimensionService">
+    <location key="#Proxy.0.0.1366.768" x="453" y="94" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="272" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="463" y="87" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="381" y="214" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="403" y="151" />
+    <location key="SettingsEditor.0.0.1366.768" x="154" y="52" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="404" y="266" />
+    <size key="#Proxy.0.0.1366.768" width="454" height="576" />
+    <size key="FileChooserDialogImpl.0.0.1366.768" width="470" height="516" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1294" height="253" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1294" height="253" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1294" height="253" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1294" height="253" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1294" height="253" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1294" height="253" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1294" height="253" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1294" height="253" />
+    <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" width="528" height="490" />
+    <size key="SettingsEditor.0.0.1366.768" width="1026" height="688" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" width="525" height="260" />
+  </component>
+</application>
