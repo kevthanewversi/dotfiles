@@ -9,6 +9,6 @@
   * `git clone https://github.com/gmarik/Vundle.vim.git`
   * `git clone git@github.com:google/vim-codefmt.git`
   * `git clone git@github.com:google/vim-glaive.git`
-* Open vi and run the command PlugInstall to install the plugins
+* Open vi and run the command `PlugInstall` to install the plugins
 
 * Good to go now :)
