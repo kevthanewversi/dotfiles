@@ -2,7 +2,7 @@
 # Getting Started
 * Clone the repo
 * Move it to your home directory and cd into it `mv dotfiles ~/ && cd ~/dotfiles`
-* Run symlink shell script `bash symlink.sh`  to create symlinks to your dotfiles
+* Run symlink shell script `bash symlinks.sh`  to create symlinks to your dotfiles
 * Open vim and run `:so ~/.vimrc` which will set up my *awesome* vim configs for you
 * Navigate into your ~/.vim/bundle dir > `cd  ~/.vim/bundle` then run the following commands to setup maktaba, vundle and Glaive:
   * `git clone git@github.com:google/vim-maktaba.git`
